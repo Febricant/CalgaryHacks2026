@@ -6,4 +6,4 @@ if DPT == 1:
 else:
     print("DPT is not zesty")
 
-print("DPT")
+print("FEBERINER ON THE BEAT")
