@@ -6,4 +6,5 @@ if DPT == 1:
 else:
     print("DPT is not zesty")
 
-print("67")
+print("67") 
+print("DPT is the best")
