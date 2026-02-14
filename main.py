@@ -1,10 +1,2 @@
-import random
-DPT = random.randint(1, 2)
-
-if DPT == 1:
-    print("DPT is zesty")
-else:
-    print("DPT is not zesty")
-
-print("67") 
-print("DPT is the best")
+import pygame
+import numpy
