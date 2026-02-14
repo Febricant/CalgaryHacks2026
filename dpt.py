@@ -8,5 +8,7 @@ while True:
     if input_number == correct_number:
         print("!!")
         break
+    elif input_number < correct_number:
+        print("?? (Too low)")
     else:
-        print("??")
+        print("?? (Too high)")
